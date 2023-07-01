@@ -1,3 +1,9 @@
 #hidden files for github
 .idea/
 venv/
+
+#DB
+db.sqlite3
+
+#migrations
+blog/migrations
